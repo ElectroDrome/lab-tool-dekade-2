@@ -165,13 +165,13 @@ This DIP-switch-based precision resistor decade provides **8 stacked ranges** fr
 
 ## 🧪 PCB
 
-![decade-2](/img/decade2_pcb.jpg)
+![decade-2](./img/decade2_pcb.jpg)
 
 ---
 
 ## 🧪 PCB Prototype
 
-![decade-2](/img/decade2_prototype.jpg)
+![decade-2](img/decade2_prototype.jpg)
 
 ---
 
