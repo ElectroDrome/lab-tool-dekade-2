@@ -1,7 +1,7 @@
 
 # 🧪 Lab Tool – DIP-Switch Precision Resistor Decade (Version 1.0/25)
 
-![PCB Preview](./img/decade2_final.jpg)/
+![PCB Preview](img/decade2_final.jpg)/
 
 ---
 
@@ -165,13 +165,13 @@ This DIP-switch-based precision resistor decade provides **8 stacked ranges** fr
 
 ## 🧪 PCB
 
-![decade-1](./img/decade2_pcb.jpg)
+![decade-2](img/decade2_pcb.jpg)
 
 ---
 
 ## 🧪 PCB Prototype
 
-![decade-1](./img/decade2_prototype.jpg)
+![decade-2](img/decade2_prototype.jpg)
 
 ---
 
