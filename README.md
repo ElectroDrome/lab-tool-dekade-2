@@ -1,7 +1,7 @@
 
 # 🧪 Lab Tool – DIP-Switch Precision Resistor Decade (Version 1.0/25)
 
-![PCB Preview](img/decade2_final.jpg)/
+![PCB Preview](./img/decade2_final.jpg)/
 
 ---
 
@@ -138,7 +138,7 @@ This DIP-switch-based precision resistor decade provides **8 stacked ranges** fr
 | 10Mx    | 80000000           | *not measured*      | *n/a*      |
 | 10Mx    | 90000000           | *not measured*      | *n/a*      |
 
-🔁 **Total summed output measured: ~3.8 Ω – 3.93 MΩ**
+🔁 **Total summed output measured: ~1.4 Ω – 59.22 MΩ**
 
 🧠 *Note*: Slight deviations due to resistor tolerance, contact resistance, temperature drift. No calibration applied — raw measurement data.
 
@@ -165,13 +165,13 @@ This DIP-switch-based precision resistor decade provides **8 stacked ranges** fr
 
 ## 🧪 PCB
 
-![decade-1](img/decade2_pcb.jpg)
+![decade-1](./img/decade2_pcb.jpg)
 
 ---
 
 ## 🧪 PCB Prototype
 
-![decade-1](img/decade2_prototype.jpg)
+![decade-1](./img/decade2_prototype.jpg)
 
 ---
 
