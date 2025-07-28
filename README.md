@@ -50,8 +50,8 @@ This DIP-switch-based precision resistor decade provides **8 stacked ranges** fr
 | Selection Method       | DIP-switch (10-bit per block)  
 | Tolerance              | 1% Vishay resistors  
 | Power Rating           | 0.6 W per resistor  
-| Max Voltage            | 24 V DC (upper blocks)  
-| Max Current            | 25 mA (lower blocks)  
+| Max Voltage            | 24 V DC  
+| Max Current            | 25 mA  
 | PCB Size               | Modular, breadboard-compatible  
 | Output Connection      | Terminal block + optional pin headers  
 | Internal Resistance    | ~0.3 Ω
